@@ -1,0 +1,144 @@
+
+.flex1,.flex2 {
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+
+
+
+.service {
+	color:blue;
+}
+.ser {
+	color:darkblue;
+}
+.container{
+	width:80%;
+	margin:auto;
+}
+.icon1 {
+	color:blue;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+
+
+.icon2{
+	color:orange;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+.icon3{
+	color:green;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+.icon4{
+	color:red;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+.icon5{
+	color:purple;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+.icon6{
+	color:pink;
+	border:1px solid;
+	width:30px;
+	padding-top:3px;
+	padding-left:3px;
+	margin-left:172px;
+	margin-top:12px;
+}
+
+.card {
+	border-bottom:1px solid;
+	border-color:white;
+	background-color:lightgrey;
+	width:380px;
+	height:38vh;
+	text-align:center;
+	
+}
+
+
+.card1 {
+	border-bottom-color:blue;
+}
+.card2 {
+	border-bottom-color:orange;
+}
+.card3 {
+	border-bottom-color:green;
+}
+.card4 {
+	border-bottom-color:red;
+}
+.card5 {
+	border-bottom-color:purple;
+}
+.card6 {
+	border-bottom-color:crimson;
+}
+
+.read1 {
+	color:blue;
+}
+
+.read2{
+	color:orange;
+}
+.read3{
+	color:green;
+}
+.read4{
+	color:red;
+}
+.read5{
+	color:purple;
+}
+.read6{
+	color:crimson;
+}
+
+.card1:hover {
+	background-color:blue;
+}
+.card2:hover{
+	background-color:orange;
+}
+.card3:hover{
+	background-color:green;
+}
+.card4:hover{
+	background-color:red;
+}
+.card5:hover{
+	background-color:purple;
+}
+.card6:hover{
+	background-color:pink;
+}
